@@ -1,0 +1,23 @@
+{
+  "name": "advant-craft-web",
+  "version": "1.0.0",
+  "description": "Advantcraft web",
+  "author": "Emil Ahlbäck",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/pwa": "^2.6.0",
+    "cross-env": "^5.2.0",
+    "element-ui": "^2.4.11",
+    "nuxt": "^2.4.0",
+    "vue-clipboard2": "^0.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
