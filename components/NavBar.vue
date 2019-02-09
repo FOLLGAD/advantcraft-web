@@ -107,4 +107,8 @@ export default {
 .z-5 {
     z-index: 5;
 }
+.discord-svg {
+    height: 10px;
+    display: inline;
+}
 </style>

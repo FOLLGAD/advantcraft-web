@@ -26,10 +26,14 @@ export default {
 
 
 <style>
+html {
+	/* background-color: rgb(253, 251, 245); */
+}
 body {
   font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, "Helvetica Neue", Arial, sans-serif;
   word-spacing: 1px;
+	overflow-y: scroll;
 }
 
 .center-container {
