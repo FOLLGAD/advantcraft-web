@@ -6,7 +6,7 @@
 
 <style>
 .front-img {
-    background-image: url(https://images.unsplash.com/photo-1493854870984-55f5c5756005?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb);
+    background-image: url(../assets/hero-img.jpg);
     background-size: cover;
     background-attachment: local;
     background-position-y: center;

@@ -65,6 +65,11 @@ export default {
     return {
       tags: ["Factions", "Survival", "PVP", "Pure experience"]
     }
+  },
+  head() {
+    return {
+      title: "Advantcraft",
+    }
   }
 }
 </script>

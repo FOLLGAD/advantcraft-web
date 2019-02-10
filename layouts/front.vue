@@ -6,7 +6,7 @@
             <el-main>
                 <nuxt />
             </el-main>
-            <el-aside width="250px" class="side-info">
+            <el-aside width="300px" class="side-info">
                 <server-info />
             </el-aside>
         </el-container>
