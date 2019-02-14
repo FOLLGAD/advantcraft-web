@@ -4,7 +4,8 @@
     <p>Please consider donating to help us out :)</p>
 
     <p class="mt-4">
-      Donation system in progress
+      Link to the ranks:
+      <a href="http://advantc.buycraft.net/">http://advantc.buycraft.net/</a>
     </p>
 
   </div>
