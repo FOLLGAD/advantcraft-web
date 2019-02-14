@@ -1,6 +1,5 @@
 const pkg = require('./package')
 
-
 module.exports = {
   mode: 'universal',
 
@@ -12,7 +11,9 @@ module.exports = {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: pkg.description }
+      { hid: 'description', name: 'description', content: "Advantcraft is a pure old-school hardcore factions server. Join us at advantcraft.net" },
+      { hid: 'title', name: 'title', content: "Advantcraft" },
+      { hid: 'site_name', name: 'site_name', content: "Advantcraft" }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }
